@@ -1,2 +1,2 @@
 # adb_cluster
-demo de cluster 
+demo git qui realise an instreament cluter 
